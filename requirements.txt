@@ -1,0 +1,6 @@
+numpy
+pylzma
+ipykernel
+jupyter
+torch
+pickle
